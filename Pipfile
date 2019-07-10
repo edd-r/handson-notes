@@ -25,6 +25,7 @@ jupyter_contrib_nbextensions = ">=0.5.0"
 ipykernel = "*"
 kaggle = "*"
 yellowbrick = "*"
+seaborn = "*"
 
 [dev-packages]
 
